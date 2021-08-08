@@ -40,3 +40,6 @@ Once this is done, any user that visits the message will get an alert message sa
 
 **NOTE**: Double quotes cause issues with the parser, but using a tool like [JSFuck](http://www.jsfuck.com/) can easily bypass this issue.
 
+## Citations
+The few jokes mentioned in this repo came from https://www.helpsystems.com/blog/35-cybersecurity-jokes-make-any-security-geek-chuckle-or-groan
+The template used in the sample page was obtained from the free examples in [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap).
