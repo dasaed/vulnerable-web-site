@@ -1,4 +1,8 @@
-#Assignment 4, question 3
+# WARNING: DO NOT COPY OR CLONE THIS REPO
+The code and information in this repo was meant for a class assignment for a course at Memorial University of Newfoundland. 
+Do not use this code for anything that is not authorized by Memorial University of Newfoundland. 
+
+# Assignment 4, question 3
 
 Website vulnerable to cross-site scripting
 
@@ -33,7 +37,6 @@ This in turn leaves the door wide open for any attacker to inject their own mali
 A very simple proof of concept example can be done by typing the following comment:
     <script>alert('You have been hacked!')</script>
 Once this is done, any user that visits the message will get an alert message saying that they have been hacked.
-
 
 **NOTE**: Double quotes cause issues with the parser, but using a tool like [JSFuck](http://www.jsfuck.com/) can easily bypass this issue.
 
